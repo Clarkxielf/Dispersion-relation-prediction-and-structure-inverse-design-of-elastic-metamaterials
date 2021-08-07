@@ -1,1 +1,1 @@
-pythonProject_pytorch50.rar filter=lfs diff=lfs merge=lfs -text
+pythonProject_pytorch50 filter=lfs diff=lfs merge=lfs -text

@@ -1,8 +1,8 @@
 # Dispersion-relation-prediction-and-structure-inverse-design-of-elastic-metamaterials-via-deep-learning
 
 ## Citation
-@article{JIANG2022100616,<br>
->>>title = {Dispersion relation prediction and structure inverse design of elastic metamaterials via deep learning},<br>
+>>>@article{JIANG2022100616,<br>
+title = {Dispersion relation prediction and structure inverse design of elastic metamaterials via deep learning},<br>
 journal = {Materials Today Physics},<br>
 volume = {22},<br>
 pages = {100616},<br>
